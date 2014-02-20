@@ -1,13 +1,14 @@
 {
-  "name": "mod-player",
-  "version": "0.0.1",
+  "name": "stagas-mod-player",
   "description": "module (.mod) player in javascript",
-  "main": "index.js",
-  "repository": "stagas/mod-player",
-  "author": "stagas",
-  "license": "MIT",
-  "devDependencies": {
-    "express": "~3.2.4"
+  "version": "0.1.0",
+  "keywords": [
+    "audio",
+    "mod",
+    "player"
+  ],
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git"
   },
-  "readmeFilename": "README.md"
+  "license": "MIT"
 }
